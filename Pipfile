@@ -11,6 +11,11 @@ yapf = "*"
 pylint = "*"
 
 [packages]
+attrs = "*"
+trio = "*"
+aiohttp = "*"
+aiofiles = "*"
+aiodns = "*"
 
 [requires]
 python_version = "3.7"
