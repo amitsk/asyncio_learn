@@ -14,7 +14,7 @@ bandit = "*"
 
 [packages]
 attrs = "*"
-trio = "*"
+loguru = "*"
 aiohttp = "*"
 aiofiles = "*"
 aiodns = "*"
